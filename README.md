@@ -24,7 +24,7 @@
 
 ## Layout e Deploy da Aplicação
 
-> Link do deploy da aplicação: 
+> Link do deploy da aplicação: https://barbearia-alura-plum.vercel.app/
 
 ![](./imgs/screenshot.png)
 
