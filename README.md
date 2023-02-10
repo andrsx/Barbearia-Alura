@@ -26,7 +26,7 @@
 
 > Link do deploy da aplicação: 
 
-... 
+![](./imgs/screenshot.png)
 
 ## Pré-requisitos
 
@@ -35,6 +35,8 @@ Não existe nenhum pré-requisito para executar esse projeto. Basta clonar o rep
 ## Autor
 
 [<img src="https://avatars.githubusercontent.com/u/67202123?v=4" width=115><br><sub>Daniel Andrade</sub>](https://github.com/andrsx) 
+
+- Linkedin - [@Daniel Andrade](https://www.linkedin.com/in/daniel-andrade-08b82125a/)
 
 ## Licença 
 
