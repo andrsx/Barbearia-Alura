@@ -11,7 +11,7 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Layout e Deploy da Aplicação](#layout-e-deploy-da-aplicação)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
